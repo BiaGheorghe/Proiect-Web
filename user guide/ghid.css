@@ -1,0 +1,19 @@
+body {
+    position: relative;
+    display: block;
+    font-family: Roboto, sans-serif;
+    left: 25%;
+    width: 70%;
+    top: 5%;
+    font-weight: 300;
+}
+
+h1 {
+    color: rgba(66, 66, 66, 0.9);
+    font-size: 3em;
+    text-align: left;
+}
+
+img {
+    width: 70%;
+}
